@@ -8,4 +8,4 @@ Você pode acessar o projeto online através do seguinte link: [Relogio Digital]
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](./LICENSE).
+Este projeto está licenciado sob a Licença [MIT](./LICENSE).
